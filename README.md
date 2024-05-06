@@ -63,4 +63,8 @@
         </div>
     </div>
 </body>
+
+Адрес сайта на гугл сайты: <a href="https://sites.google.com/view/esse-p7">https://sites.google.com/view/esse-p7</a>
+Адрес сайта: <a href="http://explayft.beget.tech/">http://explayft.beget.tech/</a>
+
 </html>
